@@ -6,7 +6,7 @@
 	url = git@github.com:efogdev/trackball-zmk-config.git
 [submodule "zmk-pointer-2s-mixer"]
 	path = zmk-pointer-2s-mixer
-	url = git@github.com:efogdev/zmk-pointer-2s-mixer.git
+	url = https://github.com/evnoj/zmk-pointer-2s-mixer-ev
 [submodule "trackball-bootloader"]
 	path = trackball-bootloader
 	url = git@github.com:efogdev/trackball-bootloader.git
